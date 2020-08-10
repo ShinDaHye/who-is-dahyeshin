@@ -15,9 +15,29 @@ const routes = [
         // ]
     },
     {
+        path: '/about',
+        redirect: '/',
+        component: Main,
+    },
+    {
+        path: '/experience',
+        redirect: '/',
+        component: Main,
+    },
+    {
+        path: '/skills',
+        redirect: '/',
+        component: Main,
+    },
+    {
+        path: '/contact',
+        redirect: '/',
+        component: Main,
+    },
+    {
         path: '/projects',
         name :'projects',
-        redirect:  { name: 'ims' },
+        redirect:  '/',
         component: () => import(/* webpackChunkName: "about" */ '@/views/projects/ProjectHeader.vue'),
         children:[
           {
