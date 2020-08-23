@@ -48,7 +48,7 @@
                         <ul style="text-align: left;">
                             <li>
                                 <h2>Responsible</h2>
-                                <h4>맡은 일에 대해서 어떤 변수가 발생해도 해결려고 노력함</h4>
+                                <h4>맡은 일에 대해서 어떤 변수가 발생해도 해결하려고 노력함</h4>
                             </li>
                             <li>
                                 <h2>Positive</h2>
