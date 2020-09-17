@@ -28,7 +28,7 @@
                                     <h4>회사 내의 면접 관리 시스템 구축</h4>
                                 </li>
                                 <li>
-                                    <h4>Andriod 앱과의 연동 API 개발</h4>
+                                    <h4>Android 앱과의 연동 API 개발</h4>
                                 </li>
                                 <li>
                                     <h4>자동 배포 툴 Jenkins 사용</h4>
